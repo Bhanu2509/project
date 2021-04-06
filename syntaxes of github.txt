@@ -47,8 +47,10 @@ git log  ////shows the enetered data like added day 1 files...
 
 remote login
 
-push 
-pop
+
+    git remote add origin https://github.com/Bhanu2509/project.git
+git push origin master
+pull
 
 
 
