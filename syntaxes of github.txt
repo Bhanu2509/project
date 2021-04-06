@@ -1,0 +1,56 @@
+git --version
+$pwd
+
+git mkdir project
+
+git cd project
+
+
+git ls -a
+
+git init
+
+///file creation
+
+touch sample.txt
+
+git status
+
+git add .   //adds the file in github
+ git status
+
+
+
+git add --all 
+or
+git add -A
+or
+git add filename.extension
+git status
+
+git config --global user.name "Bhanu2509"
+git config --global user.email "barribhanukrishna@gmail.com"
+
+git config --list
+
+git commit /////to eneter into editior and exit is the shift+;+wq
+
+git commit -am "added day1files"
+or
+git commit -m "added day2 files"
+
+git log  ////shows the enetered data like added day 1 files...
+
+
+
+
+
+remote login
+
+push 
+pop
+
+
+
+
+
