@@ -86,7 +86,8 @@ step 6 : configure the username and email
  step 10:  add the remote branch to repository
        git remote add origin "your url of repository"
 
-
+step 11: perform push operation using 
+        git push origin master
 
 
 
