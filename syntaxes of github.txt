@@ -55,4 +55,27 @@ pull
 
 
 
+step1: how to create
+touch sample.txt
+step 2: how to add data into file
+cmd:cat>sample.txt press eneter
+
+step 3: write some text here then press ctrl+s
+ctrl+x ctrl+x,ctrl+z
+
+step 4 : check the git status
+cmd: git status (to check track or untracking files)
+
+step5:add files into repository
+cmd: git add --all or
+      git add --A or
+      git add .
+      git add filename
+step 6 : configure the username and email
+cmd: git config --global user.name "Bhanu2509"
+     git config --global user.email "barribhanukrishna@gmail.com"
+
+
+
+
 
