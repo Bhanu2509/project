@@ -79,7 +79,12 @@ step 6 : configure the username and email
  git log
  
  STEP 8: TO SAVE ALL THE CHANGES
- git commit -m 
+ git commit -m "files are added"
+ 
+ step 9: create repository in github.com   and give some name to repository under username
+ 
+ step 10:  add the remote branch to repository
+       git remote add origin "your url of repository"
 
 
 
