@@ -1,0 +1,111 @@
+
+
+  .head{
+                align-content:center;
+                height: 100px;
+                
+           
+     background-color:blue;   
+            }
+    
+
+        .menu{
+                height: 30px;
+                background-color: yellowgreen;
+                float: left;
+            }
+ 
+
+
+           .left{   
+                height: 200px;
+                width: 200px;
+                background-color: buttonhighlight;
+              float:left;
+            }
+    
+
+
+        .center
+            {
+                height: 500px;
+                width: 1000px;
+                background-color: bisque;
+                float:left;   
+            }
+          
+
+
+  .footer{
+                align-content:center;
+                height: 50px;               
+                background-color: black;   
+                float: right;
+            }
+   
+
+
+      
+   .foot{
+                height: 40px;
+                width: 1200px;
+                background-color: grey;
+                float:left;
+            }
+    
+
+
+        
+            .menu ul li
+            {
+                list-style :none;
+                float: left;
+                border-right:2px black solid;
+            }
+     
+
+
+       .menu ul li a{
+                text-decoration: none;
+                padding: 100px 400px 100px 40px;
+                display: block;
+            }
+   
+
+     
+    .menu ul li:hover{
+               padding:2px;
+              
+            }
+        
+
+    .menu ul
+		
+{
+               margin: 0px auto;   
+		background-color:goldenrod;
+                float: left;
+                width: 1200px;
+                padding-left: 0px;
+                margin-top: 0px;
+                height: 30px;
+		}
+ 
+
+     
+          input
+                {
+                 border-radius:  5px 15px 5px 15px;
+                 box-decoration-break: none;
+                }
+       
+
+
+      .left ul li{
+                list-style:  none;
+            
+             }
+            .left ul li a{
+                text-decoration: none;
+                color:black;
+            }
